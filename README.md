@@ -1,6 +1,6 @@
-## steidani.github.io
+## aniskhan25.github.io
 
-This repo hosts my personal website [steidani.github.io](https://steidani.github.io) via GitHub pages. The Jekyll template is [AcademicPages](https://academicpages.github.io/), which was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. 
+This repo hosts my personal website [aniskhan25.github.io](https://aniskhan25.github.io) via GitHub pages. The Jekyll template is [AcademicPages](https://academicpages.github.io/), which was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. 
 
 This version is based on a modified version by [jwagemann](https://github.com/jwagemann/jwagemann.github.io). I modified the template to my needs. Please feel free to fork this modified version.
 
