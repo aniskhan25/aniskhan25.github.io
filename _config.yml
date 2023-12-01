@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Steinfeld"
+title                    : "Anis Ur Rahman"
 title_separator          : "-"
-name                     : "Daniel Steinfeld"
-description              : "PhD in Atmospheric and Climate Science from ETH Zurich"
-url                      : "https://steidani.github.io"
+name                     : "Anis Ur Rahman"
+description              : "PhD in Computer Science from Universite Grenoble Alpes"
+url                      : "https://aniskhan25.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steidani/steidani.github.io"
+repository               : "aniskhan25/aniskhan25.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Steinfeld"
-  avatar           : "foto_dani_resized.jpg"
-  bio              : "PhD in Atmospheric and Climate Science at ETH Zurich"
+  name             : "Anis Ur Rahman"
+  avatar           : "anis.png"
+  bio              : "PhD in Computer Science at Universite Grenoble Alpes"
   location         :
   employer         : 
   pubmed           : 
-  googlescholar    :
-  email            : "dani_steinfeld@hotmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2
+  email            : "aniskhan25@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Anis-Ur-Rahman"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steidani"
+  github           : "aniskhan25"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "steidani"
-  orcid            :
+  linkedin         : "aniskhan25"
+  orcid            : https://orcid.org/0000-0002-8306-475X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "steidani1"
+  twitter          : # "aniskhan25"
   vine             :
   weibo            :
   xing             :
