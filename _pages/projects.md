@@ -56,9 +56,9 @@ Leveraging fog computing for sustainable smart farming using distributed simulat
 
     - Offered a comprehensive framework for understanding sensor deployment and data processing in smart farming practices.
 
-|![](http://aniskhan25.github.io/images/iot_farming.jpg)|
+|![](http://aniskhan25.github.io/images/iot_farm.png){|
 |:--:| 
-| *abc.* |
+| *Smart farming toolkit layered architecture.* |
 
 
 xFogSim: A Distributed Resource Management Framework for IoT Services in Fog Federation
