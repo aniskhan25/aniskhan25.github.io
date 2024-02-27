@@ -40,20 +40,6 @@ Conference and Seminar (select)
 **Face perception: Influence of location and number in videos**: [pdf](http://aniskhan25.github.io/files/20120523_wiamis.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;_workshop 05/2012 at [WIAMIS](https://wiamis2013.wp.imt.fr/past-events/)_  
 
-Workshops 
--------
-**Wasser in der Atmosphäre (engl. Water in the Atmosphere)**: [Part 1](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil1.pdf), [Part 2](http://steidani.github.io/files/Wasser_in_der_Atmosphaere_Teil2.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelor Course "Klimatologie" at ZHAW Zurich University of Applied Sciences  
-&nbsp;&nbsp;&nbsp;&nbsp;_2019, ZHAW, Switzerland_  
-
-**Weather system perspective in GCMs**: [pdf](http://steidani.github.io/files/cesm_meeting_dec_2018.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;C2SM GCM User Workshop  
-&nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
-
-**Was ist Wetter? (engl. What is Weather?)**: [pdf](http://steidani.github.io/files/girls_day_18_dani.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;IAC Girls’ Day 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;_June 2018, ETH Zurich, Switzerland_  
-
 Posters 
 -------
 
