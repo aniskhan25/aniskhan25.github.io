@@ -6,22 +6,39 @@ author_profile: true
 
 Talks
 ------
-**The role of latent heating in atmospheric blocking**: [pdf](http://steidani.github.io/files/defense_daniel_steinfeld_2019.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;PhD Defense, Insitute for Atmospheric and Climate Science, ETH Zurich  
-&nbsp;&nbsp;&nbsp;&nbsp;_May 2019, ETH Zurich, Switzerland_  
+**Face perception in videos: Contributions to a visual saliency model and its implementation on GPUs**: [pdf](http://aniskhan25.github.io/files/rahman_phd_thesis.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;PhD Defense, GIPSA-lab Grenoble Images Speech Signal and Control
+&nbsp;&nbsp;&nbsp;&nbsp;_April 2009, Universit\'e Grenoble Alpes, France_  
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 08/2013 at [NUST-SEECS](https://seecs.nust.edu.pk/)_
 
-**Microphysical processes in Diabatic Rossby Waves**: [pdf](http://steidani.github.io/files/master_defense_daniel_steinfeld_2015.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Msc thesis presentation, Oeschger Centre for Climate Change Research, University of Bern  
-&nbsp;&nbsp;&nbsp;&nbsp;_2015, University of Bern, Switzerland_  
+**Parallel implementation of a visual attention model**: [pdf](http://aniskhan25.github.io/files/rahman_master_thesis.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;MS Defense, Grenoble INP
+&nbsp;&nbsp;&nbsp;&nbsp;_May 2009, Universit\'e Grenoble Alpes, France_  
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 07/2010 at [GDR-ISIS](http://intranet.gdr-isis.fr/)_  
 
 Conference and Seminar (select) 
 -------------------------------
-**The role of latent heating in atmospheric blocking (invited talk)**  
-&nbsp;&nbsp;&nbsp;&nbsp;_seminar 06/2019 at [Weizmann Institute of Science](https://www.weizmann.ac.il/EPS/events/role-latent-heating-atmospheric-blocking-climatology-and-dynamics)_     
-&nbsp;&nbsp;&nbsp;&nbsp;_seminar 07/2019 at Freie Univerität Berlin_     
-&nbsp;&nbsp;&nbsp;&nbsp;_group meeting 12/2020 at University of Oxford_     
-&nbsp;&nbsp;&nbsp;&nbsp;_seminar 02/2021 at [ECMWF](https://events.ecmwf.int/event/264/)_  
-&nbsp;&nbsp;&nbsp;&nbsp;_colloquium 10/2021 at University of Bern_
+
+**Basic Hmsc-HPC usage**: [pdf](https://github.com/aniskhan25/hmsc-hpc/blob/main/examples/basic_example/example.Rmd)  
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 02/2024 at [PredCom](https://www.jyu.fi/en/research-groups/predictive-community-ecology-group)_  
+
+**Bridging ecological realities: Deep learning's promise and challenges**: [pdf](http://aniskhan25.github.io/files/20231219_predcom.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 06/2023 at [PredCom](https://www.jyu.fi/en/research-groups/predictive-community-ecology-group)_  
+
+**Unlocking GPU potential: HMSC and LUMI-G for ecology**: [pdf](http://aniskhan25.github.io/files/20230608_lifeplan.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_seminar 06/2023 at [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan)_  
+
+**Task offloading using multi-armed bandit optimization in autonomous mobile robots**: [pdf](http://aniskhan25.github.io/files/230517_infocom.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_conference 12/2017 at [INFOCOM](https://infocom2023.ieee-infocom.org/)_  
+
+**A framework to combine multi-object tracking and segmentation**: [pdf](http://aniskhan25.github.io/files/20171201_dicta.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_conference 12/2017 at [DICTA](http://dicta2017.dictaconference.org/)_  
+
+**A framework to combine multi-object tracking and segmentation**: [pdf](http://aniskhan25.github.io/files/20170927_icip.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_conference 09/2016 at [ICIP](https://www.2016.ieeeicip.org/ICIP%202016/www2.securecms.com/ICIP2016/default.html/)_  
+
+**Face perception: Influence of location and number in videos**: [pdf](http://aniskhan25.github.io/files/20120523_wiamis.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;_workshop 05/2012 at [WIAMIS](https://wiamis2013.wp.imt.fr/past-events/)_  
 
 Workshops 
 -------
@@ -39,14 +56,16 @@ Workshops
 
 Posters 
 -------
-**Sensitivity of blocking to changes in upstream latent heating**: [pdf](http://steidani.github.io/files/wcb_2020_ifs_sensitivity.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;Cyclone Workshop 2019 and WCB Workshop 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;_October 2019, Germany and March 2020, England_
 
-**Response of physical processes in atmospheric blocking to climate change**: [pdf](http://steidani.github.io/files/bws2021_poster_danielsteinfeld.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Atmospheric Blocking Workshop 2021](https://blocking-workshop-2021.wavestoweather.de/) and [Swiss Climate Summer School 2022](https://www.oeschger.unibe.ch/studies/summer_school/2022/scope/index_eng.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;_September 2021, Germany and August 2022, Switzerland_
+**Face perception: Influence of location and number in videos**: [pdf](http://aniskhan25.github.io/files/101027_wiamis.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp; WIAMIS 2012  
+&nbsp;&nbsp;&nbsp;&nbsp;_October 2010, Ireland_
 
+**Spatio-temporal fusion of visual saliency model**: [pdf](http://aniskhan25.github.io/files/110829_eusipco.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp; EUSIPCO 2011  
+&nbsp;&nbsp;&nbsp;&nbsp;_August 2011, Spain_
 
-
+**GPU implemenation of motion estimation for visual saliency**: [pdf](http://aniskhan25.github.io/files/101027_dasip.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp; GTC 2010 and DASIP 2010  
+&nbsp;&nbsp;&nbsp;&nbsp;_December 2019, USA and October 2010, Scotland_
 

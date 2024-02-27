@@ -60,6 +60,12 @@ Leveraging fog computing for sustainable smart farming using distributed simulat
 |:--:| 
 | *Smart farming toolkit layered architecture.* |
 
+Internal architecture of the proposed framework.
+
+Average delay between UAVs and fog nodes when varying the number of available fog locations.
+
+Delay between sensors and UAVs when varying the number of deployed UAVs.
+
 
 xFogSim: A Distributed Resource Management Framework for IoT Services in Fog Federation
 ---------------------------------------------------------------------------------------
