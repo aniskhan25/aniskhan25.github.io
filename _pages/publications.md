@@ -145,6 +145,8 @@ Book Chapters
 
 - **Rahman, A.U.**, D. Houzet, D. Pellerin. [Visual saliency model on multi-GPU.](https://doi.org/10.1016/B978-0-12-384988-5.00030-9) GPU Computing Gems Emerald Edition.
 
+[//]: # **** * **** ******* ****** # ****** ** ******
+
 Reports
 -------
 
@@ -152,8 +154,11 @@ Reports
 
 - **Rahman A.U.**, 2007: A Computer Based System for Statistical Analysis of Departmental Information Gomal University D.I.Khan, Gomal University
 
+[//]: # **** * ***** ******* ****** # # *** #
+
 PhD Thesis
 ----------
 
 - **Rahman A.U.**, 2013: [Face perception in videos: Contributions to a visual saliency model and its implementation on GPUs](http://aniskhan25.github.io/files/rahman_phd_thesis.pdf), Universit\'e Grenoble Alpes
 
+[//]: # **** ****** ******** ******** ******* ******** ******* ********* *
