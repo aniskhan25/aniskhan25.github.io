@@ -31,10 +31,10 @@ Conference and Seminar (select)
 **Task offloading using multi-armed bandit optimization in autonomous mobile robots**: [pdf](/files/230517_infocom.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;_conference 12/2017 at [INFOCOM](https://infocom2023.ieee-infocom.org/)_  
 
-**A framework to combine multi-object tracking and segmentation**: [pdf](/files/20171201_dicta.pdf)  
+**A framework to combine multi-object tracking and segmentation**: [pdf](/files/171201_dicta.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;_conference 12/2017 at [DICTA](http://dicta2017.dictaconference.org/)_  
 
-**A framework to combine multi-object tracking and segmentation**: [pdf](/files/20170927_icip.pdf)  
+**A framework to combine multi-object tracking and segmentation**: [pdf](/files/160927_icip.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;_conference 09/2016 at [ICIP](https://www.2016.ieeeicip.org/ICIP%202016/www2.securecms.com/ICIP2016/default.html/)_  
 
 **Face perception: Influence of location and number in videos**: [pdf](/files/20120523_wiamis.pdf)  
@@ -43,7 +43,7 @@ Conference and Seminar (select)
 Posters 
 -------
 
-**Face perception: Influence of location and number in videos**: [pdf](/files/101027_wiamis.pdf)  
+**Face perception: Influence of location and number in videos**: [pdf](/files/120523_wiamis.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp; WIAMIS 2012  
 &nbsp;&nbsp;&nbsp;&nbsp;_October 2010, Ireland_
 
