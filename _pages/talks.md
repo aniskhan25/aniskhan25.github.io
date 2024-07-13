@@ -6,7 +6,7 @@ author_profile: true
 
 Talks
 ------
-**Face perception in videos: Contributions to a visual saliency model and its implementation on GPUs**: [pdf](http://aniskhan25.github.io/files/rahman_phd_thesis.pdf)  
+**Face perception in videos: Contributions to a visual saliency model and its implementation on GPUs**: [pdf](/files/rahman_phd_thesis.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;PhD Defense, GIPSA-lab Grenoble Images Speech Signal and Control
 &nbsp;&nbsp;&nbsp;&nbsp;_April 2009, Universit\'e Grenoble Alpes, France_  
 &nbsp;&nbsp;&nbsp;&nbsp;_seminar 08/2013 at [NUST-SEECS](https://seecs.nust.edu.pk/)_
