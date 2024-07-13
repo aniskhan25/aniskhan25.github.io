@@ -11,7 +11,7 @@ Talks
 &nbsp;&nbsp;&nbsp;&nbsp;_April 2009, Universit\'e Grenoble Alpes, France_  
 &nbsp;&nbsp;&nbsp;&nbsp;_seminar 08/2013 at [NUST-SEECS](https://seecs.nust.edu.pk/)_
 
-**Parallel implementation of a visual attention model**: [pdf](http://aniskhan25.github.io/files/rahman_master_thesis.pdf)  
+**Parallel implementation of a visual attention model**: [pdf](/files/rahman_master_thesis.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;MS Defense, Grenoble INP
 &nbsp;&nbsp;&nbsp;&nbsp;_May 2009, Universit\'e Grenoble Alpes, France_  
 &nbsp;&nbsp;&nbsp;&nbsp;_seminar 07/2010 at [GDR-ISIS](http://intranet.gdr-isis.fr/)_  
