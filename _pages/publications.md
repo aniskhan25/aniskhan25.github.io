@@ -11,9 +11,9 @@ author_profile: true
 Articles (peer-reviewed)
 -----------------------
 
-- J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, **A.U. Rahman**, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. [Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data.](https://dx.doi.org/10.3897/arphapreprints.e124640) ARPHA Preprints. April 2024.
+- **A.U. Rahman**, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. [Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting.](https://doi.org/10.1101/2024.02.13.580046) PLOS Computational Biology. August 2024.
 
-- A.U. Rahman, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. [Accelerating joint species distribution modeling with Hmsc-HPC: A 1000x faster GPU deployment.](https://doi.org/10.1101/2024.02.13.580046) bioRxiv. February 2024.
+- J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, **A.U. Rahman**, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. [Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data.](https://dx.doi.org/10.3897/arphapreprints.e124640) ARPHA Preprints. April 2024.
 
 - Huo, D., A.W. Malik, S.D. Ravana, **A.U. Rahman**, I. Ahmedy. [Mapping smart farming: Addressing agricultural challenges in data-driven era.](https://doi.org/10.1016/j.rser.2023.113858) Renewable and Sustainable Energy Reviews. 189 (Part A), 113858. January 2024. [Q1][IF=15.9]
 
@@ -101,6 +101,8 @@ Articles (peer-reviewed)
 
 Conferences (peer-reviewed)
 ---------------------------
+
+- Tikhonov, G., **A.U. Rahman**, J. Oksanen, T. Rossi, O. Ovaskainen. 1000x faster flexible Joint Species Distribution Modelling: Hmsc-HPC package for efficient GPU deployment. In ISEC’24: International Statistical Ecology Conference, July 2024.
 
 - **Rahman, A.U.**, A.W. Malik, H.A. Khattak, M. Aloqaily. [Task offloading using multi-armed bandit optimization in autonomous mobile robots.](https://doi.org/10.1109/INFOCOMWKSHPS57453.2023.10226072) In INFOCOM‘23: IEEE Conference on Computer Communications Workshops, June 2023.
 
