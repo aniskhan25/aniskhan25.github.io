@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, it's nice to meet you.
+<div class="profile-intro">
+  <p class="profile-eyebrow">Machine Learning Specialist &middot; CSC - IT Center for Science</p>
+  <h1 class="profile-heading">Scalable AI, computer vision, and HPC for environmental intelligence.</h1>
+  <p class="profile-lead">I build machine learning systems for geospatial and environmental data, with a focus on high-performance computing, remote sensing, biodiversity pipelines, and practical AI workflows on large research infrastructure.</p>
+  <p class="profile-links">
+    <a href="/experience/">Experience</a>
+    <a href="/projects/">Projects</a>
+    <a href="/publications/">Publications</a>
+    <a href="https://github.com/aniskhan25">GitHub</a>
+    <a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">Google Scholar</a>
+  </p>
+</div>
 
 I am **Anis Ur Rahman**, a Machine Learning Specialist at [CSC - IT Center for Science](https://www.csc.fi/), where I work within the LUMI AI Factory on machine learning solutions for research and private-sector applications. My work focuses on scalable AI pipelines, computer vision, high-performance computing, and environmental and geospatial data.
 
@@ -18,11 +29,15 @@ Previously, I was a Postdoctoral Researcher at the University of Jyvaskyla, wher
 
 My broader research background spans:
 
-- Deep learning and computer vision for image analysis and saliency modeling
-- Scalable machine learning pipelines and GPU/HPC optimization
-- Remote sensing and environmental pattern modeling
-- Large-scale ecological and biodiversity data processing
-- IoT, smart systems, intelligent transportation, and distributed simulation
+<p class="profile-tags">
+  <span>Deep Learning</span>
+  <span>Computer Vision</span>
+  <span>Remote Sensing</span>
+  <span>GPU/HPC</span>
+  <span>GeoAI</span>
+  <span>Biodiversity Data</span>
+  <span>IoT & Simulation</span>
+</p>
 
 I completed my PhD in Computer Science at [Universite Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/en), where my dissertation focused on computational modelling of visual attention, eye-tracking-based evaluation, face perception in videos, and GPU-based real-time implementations. I also hold a Master's degree in Informatics with a specialization in Parallel and Distributed Systems from [Universite Grenoble Alpes](https://mosig.imag.fr/).
 

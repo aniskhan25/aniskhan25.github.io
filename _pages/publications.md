@@ -5,7 +5,52 @@ author_profile: true
 ---
 
 
-- [My Google Scholar](https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2)
+<div class="profile-intro">
+  <p class="profile-eyebrow">Research output</p>
+  <h1 class="profile-heading">Selected publications in scalable AI, environmental data, and intelligent systems.</h1>
+  <p class="profile-lead">A short selection of recent and representative work. The full publication archive follows below.</p>
+  <p class="profile-links">
+    <a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">Google Scholar</a>
+    <a href="https://orcid.org/0000-0002-8306-475X">ORCID</a>
+  </p>
+</div>
+
+<div class="publication-highlights">
+  <section class="publication-highlight">
+    <p class="publication-meta">2024 / GPU / Ecological modelling</p>
+    <h2><a href="https://doi.org/10.1101/2024.02.13.580046">Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting</a></h2>
+    <p><strong>A.U. Rahman</strong>, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. PLOS Computational Biology.</p>
+    <div class="publication-tags"><span>GPU</span><span>HPC</span><span>Ecological modelling</span></div>
+  </section>
+
+  <section class="publication-highlight">
+    <p class="publication-meta">2024 / Biodiversity digital twin</p>
+    <h2><a href="https://dx.doi.org/10.3897/arphapreprints.e124640">Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data</a></h2>
+    <p>J.L. Gordillo, P. Lauha, A. Lehtio, O. Nokelainen, <strong>A.U. Rahman</strong>, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. ARPHA Preprints.</p>
+    <div class="publication-tags"><span>Biodiversity</span><span>Real-time monitoring</span><span>Citizen science</span></div>
+  </section>
+
+  <section class="publication-highlight">
+    <p class="publication-meta">2024 / Smart farming / Sustainability</p>
+    <h2><a href="https://doi.org/10.1016/j.rser.2023.113858">Mapping smart farming: Addressing agricultural challenges in data-driven era</a></h2>
+    <p>Huo, D., A.W. Malik, S.D. Ravana, <strong>A.U. Rahman</strong>, I. Ahmedy. Renewable and Sustainable Energy Reviews.</p>
+    <div class="publication-tags"><span>Smart farming</span><span>IoT</span><span>Sustainability</span></div>
+  </section>
+
+  <section class="publication-highlight">
+    <p class="publication-meta">2020 / Fog federation / IoT</p>
+    <h2><a href="https://doi.org/10.1109/TSUSC.2020.3025021">xFogSim: A distributed resource management framework for IoT services in fog federation</a></h2>
+    <p>Malik, A.W., T. Qayyum, <strong>A.U. Rahman</strong>, M.A. Khan, S.U. Khan. IEEE Transactions on Sustainable Computing.</p>
+    <div class="publication-tags"><span>Fog federation</span><span>Resource management</span><span>IoT</span></div>
+  </section>
+
+  <section class="publication-highlight">
+    <p class="publication-meta">2010 / Computer vision / GPU</p>
+    <h2><a href="https://dx.doi.org/10.1007/s11554-010-0164-7">Parallel implementation of a spatio-temporal visual saliency model</a></h2>
+    <p><strong>Rahman, A.U.</strong>, D. Houzet, D. Pellerin, S. Marat, N. Guyader. Journal of Real-Time Image Processing.</p>
+    <div class="publication-tags"><span>Computer vision</span><span>GPU</span><span>Visual saliency</span></div>
+  </section>
+</div>
 
 
 Articles (peer-reviewed)
@@ -112,9 +157,9 @@ Conferences (peer-reviewed)
 
 - Shabir, B., A.W. Malik, **A.U. Rahman**, M.A. Khan, Z. Anwar. [A reliable learning based task offloading framework for vehicular edge computing.](http://dx.doi.org/10.1109/ICoDT255437.2022.9787462) In ICoDT2: 2nd International Conference on Digital Futures and Transformative Technologies, June 2022.
 
-- Dongyang, H., S.D. Ravana, A.W. Malik, **A.U. Rahman**, I. Ahmedy. [Transformation of traditional farming to smart farming in the context of the internet of things.](https://) In: SIRKM'22: Seminar on Information Retrieval and Knowledge Management, March 2022.
+- Dongyang, H., S.D. Ravana, A.W. Malik, **A.U. Rahman**, I. Ahmedy. Transformation of traditional farming to smart farming in the context of the internet of things. In: SIRKM'22: Seminar on Information Retrieval and Knowledge Management, March 2022.
 
-- Butt, M.Q., **A.U. Rahman**. [Audiovisual saliency prediction in uncategorized video sequences based on audio-video correlation.](https://) In: ECVP 2021: European Conference on Visual Perception, January 2022.
+- Butt, M.Q., **A.U. Rahman**. Audiovisual saliency prediction in uncategorized video sequences based on audio-video correlation. In: ECVP 2021: European Conference on Visual Perception, January 2022.
 
 - Malik, M., **A.U. Rahman**. [Exploiting class hierarchies for large-scale scene classification using hybrid discriminative approach.](http://dx.doi.org/10.1109/ICCT.2018.8600200) In: ICCT 2018: International Conference on Communication Technology, October 2018.
 
