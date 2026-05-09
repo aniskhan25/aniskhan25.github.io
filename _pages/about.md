@@ -8,18 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+Hi, it's nice to meet you.
 
-Hi, it's nice to meet you :)
+I am **Anis Ur Rahman**, a Machine Learning Specialist at [CSC - IT Center for Science](https://www.csc.fi/), where I work within the LUMI AI Factory on machine learning solutions for research and private-sector applications. My work focuses on scalable AI pipelines, computer vision, high-performance computing, and environmental and geospatial data.
 
-My name is Anis Ur Rahman and I'm a Project Researcher at the University of Eastern Finland, in the Faculty of Science, Forestry and Technology. My role focuses on the ERC Starting Grant-funded project "Environmental thresholds for drought- and heat-related tree mortality (DRYTREE)." I will be contributing to this interdisciplinary project by developing pattern-recognition algorithms and utilizing remote sensing tools to map tree mortality across Europe and the US. This position leverages my expertise in image analysis, convolutional neural networks, high-performance computing, and managing large datasets.
+My recent research has centered on AI for sustainability and climate resilience. At the University of Helsinki and the University of Eastern Finland, I worked on the ERC Starting Grant-funded **DRYTREE** project, developing transfer learning methods, pattern-recognition algorithms, convolutional neural networks, and remote sensing workflows for mapping drought- and heat-related tree mortality across Europe and the US.
 
-A little bit about me: I did my Masters in Informatics with specialization in Parallel and Distributed Systems at the [Universite Grenoble Alpes](https://mosig.imag.fr/) and my PhD in Computer Science at [Universite Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/en). My doctoral dissertation explores computational modelling of visual attention, focusing on mechanisms involving various cues: static, dynamic, face, and colour. Moreover, I evaluate eye movement predictions against eye-tracking data, study the impact of faces in videos, and propose real-time implementation using parallel architectures to enhance application quality and user experience.
+Previously, I was a Postdoctoral Researcher at the University of Jyvaskyla, where I developed large-scale biodiversity data processing pipelines in collaboration with CSC using the LUMI supercomputer. This work was connected to EU-funded biodiversity initiatives including Biodiversity Digital Twin and LIFEPLAN.
 
-Previously, I was an Associate Professor at the Department of Computing, NUST-SEECS (Pakistan). In 2019, I worked at the Department of Information Systems (FSKTM University of Malaya) as a Research Fellow for one year. During the fellowship, I worked on engineering a comprehensive simulation framework to model and analyze large-scale smart farming ecosystems. Moreover, I explored strategies for optimizing sustainable resource utilization within fog federations for smart cities. In 2022, I worked as a PostDoc researcher at the Department of Biological and Environmental Sciences, University of Jyvaskyla. I'm working in close collaboration with high-performance computing experts at CSC (Finnish IT Center for Science) to develop pipelines for modelling and processing massive biodiversity data with LUMI, Europe’s fastest petascale supercomputer. 
+My broader research background spans:
 
-Learn more about my project at the University of Eastern Finland here: [https://geho.fi/projects/](https://geho.fi/projects/)  
+- Deep learning and computer vision for image analysis and saliency modeling
+- Scalable machine learning pipelines and GPU/HPC optimization
+- Remote sensing and environmental pattern modeling
+- Large-scale ecological and biodiversity data processing
+- IoT, smart systems, intelligent transportation, and distributed simulation
 
-You can find some of my current projects here: [https://github.com/aniskhan25](https://github.com/aniskhan25)
+I completed my PhD in Computer Science at [Universite Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/en), where my dissertation focused on computational modelling of visual attention, eye-tracking-based evaluation, face perception in videos, and GPU-based real-time implementations. I also hold a Master's degree in Informatics with a specialization in Parallel and Distributed Systems from [Universite Grenoble Alpes](https://mosig.imag.fr/).
+
+Earlier in my career, I was an Associate Professor at NUST School of Electrical Engineering & Computer Science in Pakistan and a Research Fellow at the University of Malaya in Malaysia, working on IoT, simulation and modelling, smart farming, fog federation, and intelligent systems.
+
+You can find some of my current projects on [GitHub](https://github.com/aniskhan25), and more profile details on [LinkedIn](https://www.linkedin.com/in/aniskhan25/).
 
 <!-- 
 |![](http://steidani.github.io/images/ifs_sim.gif)|

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anis Ur Rahman"
 title_separator          : "-"
 name                     : "Anis Ur Rahman"
-description              : "PhD in Computer Science from Universite Grenoble Alpes"
+description              : "Machine Learning Specialist working on scalable AI, computer vision, HPC, and environmental data"
 url                      : "https://aniskhan25.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aniskhan25/aniskhan25.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Anis Ur Rahman"
   avatar           : "anis.png"
-  bio              : "PhD in Computer Science at Universite Grenoble Alpes"
-  location         :
-  employer         : 
+  bio              : "Machine Learning Specialist at CSC - IT Center for Science"
+  location         : "Finland"
+  employer         : "CSC - IT Center for Science"
   pubmed           : 
   googlescholar    : https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2
   email            : "aniskhan25@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Anis-Ur-Rahman"
-  uri              :
+  uri              : "https://sites.google.com/view/anis-ur-rahman"
   bitbucket        :
   codepen          :
   dribbble         :
