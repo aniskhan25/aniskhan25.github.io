@@ -1,0 +1,237 @@
+/* ==========================================================================
+   Terminal-style profile
+   ========================================================================== */
+
+$terminal-bg: #020403;
+$terminal-panel: #111;
+$terminal-text: #ffe8bd;
+$terminal-green: #98ff86;
+$terminal-cyan: #70ffff;
+$terminal-muted: #b9aa89;
+$terminal-rule: #315b2c;
+
+html {
+  background: $terminal-bg;
+}
+
+body {
+  background:
+    radial-gradient(circle at 50% 70%, rgba(59, 118, 46, 0.2), rgba(2, 4, 3, 0) 36rem),
+    $terminal-bg;
+  color: $terminal-text;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  line-height: 1.42;
+}
+
+.masthead {
+  max-width: 800px;
+  margin: 0 auto;
+  background: transparent;
+  border-bottom: 1px solid $terminal-rule;
+}
+
+.masthead__inner-wrap {
+  max-width: none !important;
+  padding: 1.2rem 0 0.75rem;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+.masthead__menu-item {
+  font-size: 0.88rem;
+  font-weight: 400;
+
+  a {
+    color: $terminal-text;
+
+    &:hover {
+      color: $terminal-green;
+      text-decoration: none;
+    }
+  }
+}
+
+.masthead__menu-item--lg {
+  padding-right: 1.8rem;
+  font-weight: 400;
+
+  a {
+    color: $terminal-green;
+  }
+}
+
+#main {
+  max-width: 800px;
+  margin: 1.4rem auto 0;
+  padding: 0;
+}
+
+.page {
+  float: none !important;
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+.page__inner-wrap {
+  float: none !important;
+}
+
+.page__title {
+  color: $terminal-green;
+  font-size: 1.55rem;
+  font-weight: 700;
+
+  &:before {
+    content: "> ";
+  }
+}
+
+.page__content {
+  color: $terminal-text;
+  font-size: 0.92rem;
+
+  p,
+  li,
+  dl {
+    color: $terminal-text;
+    font-size: 0.92rem;
+    line-height: 1.42;
+  }
+
+  p {
+    max-width: 660px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $terminal-green;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-weight: 700;
+  }
+
+  h1 {
+    margin: 0 0 1rem;
+    font-size: 1.7rem;
+  }
+
+  h2 {
+    margin: 2rem 0 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid $terminal-rule;
+    font-size: 1.2rem;
+
+    &:before {
+      content: "> ";
+    }
+  }
+
+  h3 {
+    margin-top: 1.35rem;
+    font-size: 1rem;
+  }
+
+  a {
+    color: $terminal-cyan;
+    font-weight: 400;
+
+    &:hover {
+      color: $terminal-green;
+      text-decoration: none;
+    }
+  }
+
+  strong {
+    color: $terminal-green;
+  }
+
+  ul {
+    padding-left: 1.2rem;
+  }
+
+  img {
+    border: 1px solid $terminal-rule;
+    border-radius: 0;
+  }
+}
+
+.terminal-hero {
+  margin-bottom: 1.6rem;
+}
+
+.terminal-title {
+  margin: 0 0 1rem !important;
+  color: $terminal-green !important;
+  font-size: 1.7rem !important;
+
+  &:before {
+    content: "> ";
+  }
+}
+
+.terminal-links {
+  margin-top: 1.2rem;
+  text-align: center;
+
+  a {
+    color: $terminal-cyan;
+  }
+}
+
+.terminal-entry {
+  margin: 0 0 1.25rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid $terminal-rule;
+}
+
+.terminal-entry h2 {
+  margin-top: 0;
+  border-bottom: 0;
+}
+
+.terminal-meta {
+  margin: 0 0 0.4rem;
+  color: $terminal-muted !important;
+  font-size: 0.78rem !important;
+}
+
+.terminal-tags {
+  margin-top: 0.45rem;
+  color: $terminal-muted;
+  font-size: 0.78rem;
+}
+
+.terminal-box {
+  min-height: 12rem;
+  margin-top: 1.3rem;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid $terminal-rule;
+  background: $terminal-panel;
+  color: $terminal-text;
+
+  &:before {
+    content: "$ ";
+    color: $terminal-text;
+  }
+}
+
+.sidebar,
+.page__meta,
+.page__share,
+.page__related {
+  display: none;
+}
+
+@media (max-width: 840px) {
+  .masthead,
+  #main {
+    max-width: none;
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+
+  .masthead__inner-wrap {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

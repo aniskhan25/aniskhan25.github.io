@@ -2,15 +2,20 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, it's nice to meet you.
+<div class="terminal-hero">
+  <h1 class="terminal-title">anisurrahman.sh</h1>
+  <p>I am <strong>Anis Ur Rahman</strong>, a Machine Learning Specialist at <a href="https://www.csc.fi/">CSC - IT Center for Science</a>, working within the LUMI AI Factory.</p>
+  <p>My work focuses on scalable AI pipelines, computer vision, high-performance computing, remote sensing, and environmental and geospatial data.</p>
+  <p class="terminal-links"><a href="/experience/">experience</a> | <a href="/projects/">projects</a> | <a href="/publications/">publications</a> | <a href="https://github.com/aniskhan25">github</a> | <a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">scholar</a> | <a href="https://www.linkedin.com/in/aniskhan25/">linkedin</a></p>
+</div>
 
-I am **Anis Ur Rahman**, a Machine Learning Specialist at [CSC - IT Center for Science](https://www.csc.fi/), where I work within the LUMI AI Factory on machine learning solutions for research and private-sector applications. My work focuses on scalable AI pipelines, computer vision, high-performance computing, and environmental and geospatial data.
+<div class="terminal-box"></div>
 
 My recent research has centered on AI for sustainability and climate resilience. At the University of Helsinki and the University of Eastern Finland, I worked on the ERC Starting Grant-funded **DRYTREE** project, developing transfer learning methods, pattern-recognition algorithms, convolutional neural networks, and remote sensing workflows for mapping drought- and heat-related tree mortality across Europe and the US.
 

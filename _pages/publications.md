@@ -1,11 +1,29 @@
 ---
 permalink: /publications/
-title: "Publications"
-author_profile: true
+title: "publications"
+author_profile: false
 ---
 
 
-- [My Google Scholar](https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2)
+<p class="terminal-links"><a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">google scholar</a> | <a href="https://orcid.org/0000-0002-8306-475X">orcid</a></p>
+
+<section class="terminal-entry">
+  <p class="terminal-meta">selected / 2024 / gpu / ecological modelling</p>
+  <h2><a href="https://doi.org/10.1101/2024.02.13.580046">Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting</a></h2>
+  <p><strong>A.U. Rahman</strong>, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. PLOS Computational Biology.</p>
+</section>
+
+<section class="terminal-entry">
+  <p class="terminal-meta">selected / 2024 / biodiversity digital twin</p>
+  <h2><a href="https://dx.doi.org/10.3897/arphapreprints.e124640">Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data</a></h2>
+  <p>J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, <strong>A.U. Rahman</strong>, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. ARPHA Preprints.</p>
+</section>
+
+<section class="terminal-entry">
+  <p class="terminal-meta">selected / 2024 / smart farming</p>
+  <h2><a href="https://doi.org/10.1016/j.rser.2023.113858">Mapping smart farming: Addressing agricultural challenges in data-driven era</a></h2>
+  <p>Huo, D., A.W. Malik, S.D. Ravana, <strong>A.U. Rahman</strong>, I. Ahmedy. Renewable and Sustainable Energy Reviews.</p>
+</section>
 
 
 Articles (peer-reviewed)
@@ -112,9 +130,9 @@ Conferences (peer-reviewed)
 
 - Shabir, B., A.W. Malik, **A.U. Rahman**, M.A. Khan, Z. Anwar. [A reliable learning based task offloading framework for vehicular edge computing.](http://dx.doi.org/10.1109/ICoDT255437.2022.9787462) In ICoDT2: 2nd International Conference on Digital Futures and Transformative Technologies, June 2022.
 
-- Dongyang, H., S.D. Ravana, A.W. Malik, **A.U. Rahman**, I. Ahmedy. [Transformation of traditional farming to smart farming in the context of the internet of things.](https://) In: SIRKM'22: Seminar on Information Retrieval and Knowledge Management, March 2022.
+- Dongyang, H., S.D. Ravana, A.W. Malik, **A.U. Rahman**, I. Ahmedy. Transformation of traditional farming to smart farming in the context of the internet of things. In: SIRKM'22: Seminar on Information Retrieval and Knowledge Management, March 2022.
 
-- Butt, M.Q., **A.U. Rahman**. [Audiovisual saliency prediction in uncategorized video sequences based on audio-video correlation.](https://) In: ECVP 2021: European Conference on Visual Perception, January 2022.
+- Butt, M.Q., **A.U. Rahman**. Audiovisual saliency prediction in uncategorized video sequences based on audio-video correlation. In: ECVP 2021: European Conference on Visual Perception, January 2022.
 
 - Malik, M., **A.U. Rahman**. [Exploiting class hierarchies for large-scale scene classification using hybrid discriminative approach.](http://dx.doi.org/10.1109/ICCT.2018.8600200) In: ICCT 2018: International Conference on Communication Technology, October 2018.
 
