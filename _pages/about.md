@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="terminal-hero">
-  <h1 class="terminal-title">anisurrahman.sh</h1>
+  <h1 class="terminal-title">Anis Ur Rahman</h1>
   <p>I am <strong>Anis Ur Rahman</strong>, a Machine Learning Specialist at <a href="https://www.csc.fi/">CSC - IT Center for Science</a>, working within the LUMI AI Factory.</p>
   <p>My work focuses on scalable AI pipelines, computer vision, high-performance computing, remote sensing, and environmental and geospatial data.</p>
   <p class="terminal-links"><a href="/experience/">experience</a> | <a href="/projects/">projects</a> | <a href="/publications/">publications</a> | <a href="https://github.com/aniskhan25">github</a> | <a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">scholar</a> | <a href="https://www.linkedin.com/in/aniskhan25/">linkedin</a></p>

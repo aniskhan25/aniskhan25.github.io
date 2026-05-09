@@ -2,13 +2,13 @@
    Terminal-style profile
    ========================================================================== */
 
-$terminal-bg: #020403;
-$terminal-panel: #111;
-$terminal-text: #ffe8bd;
+$terminal-bg: #000;
+$terminal-panel: #101010;
+$terminal-text: #ffe6b3;
 $terminal-green: #98ff86;
-$terminal-cyan: #70ffff;
-$terminal-muted: #b9aa89;
-$terminal-rule: #315b2c;
+$terminal-cyan: #75ffff;
+$terminal-muted: #b9a982;
+$terminal-rule: #2f5d29;
 
 html {
   background: $terminal-bg;
@@ -16,7 +16,7 @@ html {
 
 body {
   background:
-    radial-gradient(circle at 50% 70%, rgba(59, 118, 46, 0.2), rgba(2, 4, 3, 0) 36rem),
+    radial-gradient(circle at 50% 72%, rgba(38, 92, 31, 0.34), rgba(0, 0, 0, 0) 34rem),
     $terminal-bg;
   color: $terminal-text;
   font-family: Monaco, Consolas, "Lucida Console", monospace;
@@ -36,8 +36,16 @@ body {
   font-family: Monaco, Consolas, "Lucida Console", monospace;
 }
 
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav .visible-links a:before {
+  background: $terminal-green;
+}
+
 .masthead__menu-item {
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   font-weight: 400;
 
   a {
@@ -77,7 +85,7 @@ body {
 
 .page__title {
   color: $terminal-green;
-  font-size: 1.55rem;
+  font-size: 1.4rem;
   font-weight: 700;
 
   &:before {
@@ -87,13 +95,13 @@ body {
 
 .page__content {
   color: $terminal-text;
-  font-size: 0.92rem;
+  font-size: 0.875rem;
 
   p,
   li,
   dl {
     color: $terminal-text;
-    font-size: 0.92rem;
+    font-size: 0.875rem;
     line-height: 1.42;
   }
 
@@ -112,14 +120,14 @@ body {
 
   h1 {
     margin: 0 0 1rem;
-    font-size: 1.7rem;
+    font-size: 1.55rem;
   }
 
   h2 {
     margin: 2rem 0 0.75rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px solid $terminal-rule;
-    font-size: 1.2rem;
+    font-size: 1rem;
 
     &:before {
       content: "> ";
@@ -128,7 +136,7 @@ body {
 
   h3 {
     margin-top: 1.35rem;
-    font-size: 1rem;
+    font-size: 0.92rem;
   }
 
   a {
@@ -142,7 +150,8 @@ body {
   }
 
   strong {
-    color: $terminal-green;
+    color: $terminal-text;
+    font-weight: 700;
   }
 
   ul {
@@ -162,7 +171,7 @@ body {
 .terminal-title {
   margin: 0 0 1rem !important;
   color: $terminal-green !important;
-  font-size: 1.7rem !important;
+  font-size: 1.55rem !important;
 
   &:before {
     content: "> ";
@@ -192,13 +201,13 @@ body {
 .terminal-meta {
   margin: 0 0 0.4rem;
   color: $terminal-muted !important;
-  font-size: 0.78rem !important;
+  font-size: 0.72rem !important;
 }
 
 .terminal-tags {
   margin-top: 0.45rem;
   color: $terminal-muted;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
 }
 
 .terminal-box {
