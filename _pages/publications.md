@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-<p class="terminal-links"><a href="https://scholar.google.fr/citations?user=PzPhVdkAAAAJ&hl=en&authuser=2">google scholar</a> | <a href="https://orcid.org/0000-0002-8306-475X">orcid</a></p>
+<p class="terminal-links"><a href="https://scholar.google.fr/citations?user=YZBUFucAAAAJ&hl=en">google scholar</a> | <a href="https://orcid.org/0000-0002-8306-475X">orcid</a></p>
 
 <section class="terminal-entry">
   <p class="terminal-meta">selected / 2024 / gpu / ecological modelling</p>
