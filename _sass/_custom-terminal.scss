@@ -243,13 +243,13 @@ h6 {
 }
 
 .terminal-entry {
-  margin: 0 0 calc(#{$terminal-rhythm} * 1.25);
+  margin: 0 0 calc(#{$terminal-rhythm} * 1.75);
   padding-top: 0;
   border-top: 0;
 }
 
 .terminal-entry + .terminal-entry {
-  margin-top: calc(#{$terminal-rhythm} * 0.35);
+  margin-top: $terminal-rhythm;
 }
 
 .terminal-entry h2 {
@@ -300,6 +300,24 @@ h6 {
   a {
     color: $terminal-cyan;
   }
+}
+
+.terminal-entry--stacked h2,
+.terminal-entry--stacked > p:not(.terminal-meta):not(.terminal-tags),
+.terminal-entry--stacked .terminal-tags {
+  display: block;
+}
+
+.terminal-entry--stacked h2 {
+  margin-bottom: 0.6em;
+}
+
+.terminal-entry--stacked > p:not(.terminal-meta):not(.terminal-tags) {
+  margin-bottom: 0.6em;
+}
+
+.terminal-entry--stacked .terminal-tags:before {
+  content: "";
 }
 
 .sidebar,

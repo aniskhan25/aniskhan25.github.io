@@ -5,7 +5,8 @@ author_profile: false
 ---
 
 
-<p class="terminal-links"><a href="https://scholar.google.fr/citations?user=YZBUFucAAAAJ&hl=en">google scholar</a> | <a href="https://orcid.org/0000-0002-8306-475X">orcid</a></p>
+Articles
+--------
 
 <section class="terminal-entry">
   <p class="terminal-meta">selected / 2024 / gpu / ecological modelling</p>
@@ -25,15 +26,6 @@ author_profile: false
   <p>Huo, D., A.W. Malik, S.D. Ravana, <strong>A.U. Rahman</strong>, I. Ahmedy. Renewable and Sustainable Energy Reviews.</p>
 </section>
 
-
-Articles (peer-reviewed)
------------------------
-
-- **A.U. Rahman**, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. [Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting.](https://doi.org/10.1101/2024.02.13.580046) PLOS Computational Biology. August 2024.
-
-- J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, **A.U. Rahman**, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. [Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data.](https://dx.doi.org/10.3897/arphapreprints.e124640) ARPHA Preprints. April 2024.
-
-- Huo, D., A.W. Malik, S.D. Ravana, **A.U. Rahman**, I. Ahmedy. [Mapping smart farming: Addressing agricultural challenges in data-driven era.](https://doi.org/10.1016/j.rser.2023.113858) Renewable and Sustainable Energy Reviews. 189 (Part A), 113858. January 2024. [Q1][IF=15.9]
 
 - Ali, M., A.W. Malik, **A.U. Rahman**. [Clustering-based re-routing framework for network traffic congestion avoidance on urban vehicular roads.](https://doi.org/10.1007/s11227-023-05455-1) The Journal of Supercomputing. 79, 21144-21165. June 2023. [Q2][IF=3.3]
 
@@ -117,8 +109,8 @@ Articles (peer-reviewed)
 
 - **Rahman, A.U.**, D. Houzet, D. Pellerin, S. Marat, N. Guyader. [Parallel implementation of a spatio-temporal visual saliency model.](https://dx.doi.org/10.1007/s11554-010-0164-7) Journal of Real-Time Image Processing. 6(1):3–14. June 2010. [Q2][IF=3.0]
 
-Conferences (peer-reviewed)
----------------------------
+Conferences
+-----------
 
 - Tikhonov, G., **A.U. Rahman**, J. Oksanen, T. Rossi, O. Ovaskainen. 1000x faster flexible Joint Species Distribution Modelling: Hmsc-HPC package for efficient GPU deployment. In ISEC’24: International Statistical Ecology Conference, July 2024.
 
