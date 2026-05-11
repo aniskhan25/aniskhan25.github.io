@@ -9,19 +9,16 @@ Articles
 --------
 
 <section class="terminal-entry">
-  <p class="terminal-meta">selected / 2024 / gpu / ecological modelling</p>
   <h2><a href="https://doi.org/10.1101/2024.02.13.580046">Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting</a></h2>
   <p><strong>A.U. Rahman</strong>, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. PLOS Computational Biology.</p>
 </section>
 
 <section class="terminal-entry">
-  <p class="terminal-meta">selected / 2024 / biodiversity digital twin</p>
   <h2><a href="https://dx.doi.org/10.3897/arphapreprints.e124640">Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data</a></h2>
   <p>J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, <strong>A.U. Rahman</strong>, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. ARPHA Preprints.</p>
 </section>
 
 <section class="terminal-entry">
-  <p class="terminal-meta">selected / 2024 / smart farming</p>
   <h2><a href="https://doi.org/10.1016/j.rser.2023.113858">Mapping smart farming: Addressing agricultural challenges in data-driven era</a></h2>
   <p>Huo, D., A.W. Malik, S.D. Ravana, <strong>A.U. Rahman</strong>, I. Ahmedy. Renewable and Sustainable Energy Reviews.</p>
 </section>
