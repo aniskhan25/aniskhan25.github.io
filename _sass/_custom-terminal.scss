@@ -3,47 +3,72 @@
    ========================================================================== */
 
 $terminal-bg: #000;
-$terminal-panel: #101010;
-$terminal-text: #ffe6b3;
-$terminal-green: #98ff86;
-$terminal-cyan: #75ffff;
-$terminal-muted: #b9a982;
-$terminal-rule: #2f5d29;
-$terminal-width: 68rem;
+$terminal-panel: #111;
+$terminal-text: #ffd7af;
+$terminal-green: #87ff87;
+$terminal-cyan: #5fffff;
+$terminal-muted: #666;
+$terminal-rule: rgba(135, 255, 135, 0.33);
+$terminal-width: 800px;
+$terminal-side-padding: 6px;
+$terminal-rhythm: 21px;
 
 html {
   background: $terminal-bg;
 }
 
 body {
-  background:
-    radial-gradient(circle at 50% 72%, rgba(38, 92, 31, 0.34), rgba(0, 0, 0, 0) 34rem),
-    $terminal-bg;
+  background: $terminal-bg;
   color: $terminal-text;
-  font-family: Monaco, Consolas, "Lucida Console", monospace;
-  font-size: 18px;
-  line-height: 1.34;
+  font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+body,
+code {
+  font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+b,
+strong,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 900;
 }
 
 .masthead {
   max-width: $terminal-width;
-  margin: 0 auto;
+  margin: 10px auto 0;
+  padding: 0 $terminal-side-padding;
   background: transparent;
   border-bottom: 1px solid $terminal-rule;
+  box-shadow: none;
 }
 
 .masthead__inner-wrap {
   max-width: none !important;
-  padding: 1.35rem 0 1rem;
-  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  padding: 0;
+  font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
 }
 
 .greedy-nav {
   background: transparent;
 }
 
+.greedy-nav .visible-links {
+  overflow: hidden;
+}
+
 .greedy-nav .visible-links a:before {
-  background: $terminal-green;
+  display: none;
 }
 
 .masthead__menu-item {
@@ -51,17 +76,23 @@ body {
   font-weight: 400;
 
   a {
+    display: block;
+    margin: 0;
     color: $terminal-text;
+    padding: 14px 13px;
+    text-align: center;
+    text-decoration: none;
 
     &:hover {
-      color: $terminal-green;
+      background: #333;
+      color: $terminal-text;
       text-decoration: none;
     }
   }
 }
 
 .masthead__menu-item--lg {
-  padding-right: 2.4rem;
+  padding-right: 0;
   font-weight: 400;
 
   a {
@@ -71,8 +102,8 @@ body {
 
 #main {
   max-width: $terminal-width;
-  margin: 2.2rem auto 0;
-  padding: 0;
+  margin: $terminal-rhythm auto 0;
+  padding: 0 $terminal-side-padding;
 }
 
 .page {
@@ -87,7 +118,8 @@ body {
 
 .page__title {
   color: $terminal-green;
-  font-size: 2.35rem;
+  margin: 0 0 $terminal-rhythm;
+  font-size: 2em;
   font-weight: 700;
 
   &:before {
@@ -104,11 +136,12 @@ body {
   dl {
     color: $terminal-text;
     font-size: 1em;
-    line-height: 1.34;
+    line-height: normal;
   }
 
   p {
-    max-width: 52rem;
+    max-width: 620px;
+    margin: 0 0 $terminal-rhythm;
   }
 
   h1,
@@ -116,25 +149,25 @@ body {
   h3,
   h4 {
     color: $terminal-green;
-    font-family: Monaco, Consolas, "Lucida Console", monospace;
-    font-weight: 700;
+    font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
+    font-weight: 900;
   }
 
   h1 {
-    margin: 0 0 1rem;
-    font-size: 2.35rem;
+    margin: 0 0 $terminal-rhythm;
+    font-size: 2em;
   }
 
   h2 {
-    margin: 3rem 0 1.15rem;
+    margin: calc(#{$terminal-rhythm} * 2) 0 $terminal-rhythm;
     padding-bottom: 0;
     border-bottom: 0;
-    font-size: 1.95rem;
+    font-size: 1.5em;
   }
 
   h3 {
-    margin-top: 2rem;
-    font-size: 1.25rem;
+    margin: $terminal-rhythm 0 0;
+    font-size: 1.17em;
   }
 
   a {
@@ -153,7 +186,9 @@ body {
   }
 
   ul {
-    padding-left: 1.2rem;
+    margin: 0 0 calc(#{$terminal-rhythm} * 2);
+    padding-left: 0;
+    list-style-type: none;
   }
 
   img {
@@ -166,8 +201,8 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 2rem;
-  margin-bottom: 2.25rem;
+  gap: $terminal-rhythm;
+  margin-bottom: $terminal-rhythm;
 }
 
 .terminal-hero-copy {
@@ -175,9 +210,9 @@ body {
 }
 
 .terminal-title {
-  margin: 0 0 1rem !important;
+  margin: 0 0 $terminal-rhythm !important;
   color: $terminal-green !important;
-  font-size: 2.35rem !important;
+  font-size: 2em !important;
 
   &:before {
     content: "> ";
@@ -185,7 +220,8 @@ body {
 }
 
 .terminal-links {
-  margin-top: 1.4rem;
+  margin-top: 30px;
+  margin-bottom: 10px;
   text-align: center;
 
   a {
@@ -194,8 +230,8 @@ body {
 }
 
 .terminal-avatar {
-  width: 140px;
-  height: 140px;
+  width: 128px;
+  height: 128px;
   flex: 0 0 auto;
   border: 0 !important;
   border-radius: 50% !important;
@@ -203,7 +239,7 @@ body {
 }
 
 .terminal-entry {
-  margin: 0 0 1.1rem;
+  margin: 0;
   padding-top: 0;
   border-top: 0;
 }
@@ -223,6 +259,7 @@ body {
 
 .terminal-entry > p:not(.terminal-meta):not(.terminal-tags) {
   display: inline;
+  margin: 0;
   max-width: none;
 
   &:after {
@@ -233,7 +270,7 @@ body {
 .terminal-meta {
   margin: 0 0 0.25rem;
   color: $terminal-muted !important;
-  font-size: 0.9em !important;
+  font-size: 1em !important;
 }
 
 .terminal-tags {
@@ -261,11 +298,11 @@ body {
 
 .page__footer {
   max-width: $terminal-width;
-  margin: 3rem auto 0;
-  padding-bottom: 2rem;
+  margin: 30px auto 0;
+  padding: 0 $terminal-side-padding 2rem;
   background: transparent;
   color: $terminal-text;
-  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
 }
 
 .page__footer-follow {
@@ -287,9 +324,9 @@ body {
 }
 
 .page__footer-copyright {
-  margin-top: 2rem;
+  margin-top: 10px;
   color: $terminal-text;
-  font-size: 0.95em;
+  font-size: 12px;
   text-align: center;
 
   a {
@@ -302,8 +339,8 @@ body {
   #main,
   .page__footer {
     max-width: none;
-    margin-right: 1rem;
-    margin-left: 1rem;
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .masthead__inner-wrap {
