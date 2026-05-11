@@ -13,7 +13,6 @@ redirect_from:
     <h1 class="terminal-title">Anis Ur Rahman</h1>
     <p>Machine Learning Specialist at <a href="https://www.csc.fi/">CSC - IT Center for Science</a>, working within the LUMI AI Factory.</p>
     <p>I build scalable AI pipelines for computer vision, remote sensing, high-performance computing, and environmental data.</p>
-    <p class="terminal-links"><a href="https://github.com/aniskhan25">github</a> | <a href="https://scholar.google.fr/citations?user=YZBUFucAAAAJ&hl=en">scholar</a> | <a href="https://orcid.org/0000-0002-8306-475X">orcid</a> | <a href="https://www.linkedin.com/in/aniskhan25/">linkedin</a> | <a href="mailto:aniskhan25@gmail.com">email</a></p>
   </div>
   <img class="terminal-avatar" src="/images/anis.png" alt="Anis Ur Rahman">
 </div>

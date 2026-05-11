@@ -122,6 +122,10 @@ h6 {
   font-size: 2em;
   font-weight: 700;
 
+  &:empty {
+    display: none;
+  }
+
   &:before {
     content: "> ";
   }
@@ -297,12 +301,21 @@ h6 {
 }
 
 .page__footer {
-  max-width: $terminal-width;
-  margin: 30px auto 0;
-  padding: 0 $terminal-side-padding 2rem;
+  width: 100%;
+  max-width: none;
+  margin: 30px 0 0;
+  padding: 0;
   background: transparent;
+  border-top: 1px solid $terminal-rule;
   color: $terminal-text;
   font-family: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace;
+
+  footer {
+    max-width: $terminal-width;
+    margin: 30px auto 0;
+    padding: 0 $terminal-side-padding 2rem;
+    text-align: center;
+  }
 }
 
 .page__footer-follow {
@@ -336,11 +349,14 @@ h6 {
 
 @media (max-width: 840px) {
   .masthead,
-  #main,
-  .page__footer {
+  #main {
     max-width: none;
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .page__footer footer {
+    max-width: none;
   }
 
   .masthead__inner-wrap {
