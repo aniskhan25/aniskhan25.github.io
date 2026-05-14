@@ -148,6 +148,11 @@ h6 {
     margin: 0 0 $terminal-rhythm;
   }
 
+  li {
+    max-width: 620px;
+    margin-bottom: $terminal-rhythm;
+  }
+
   h1,
   h2,
   h3,
@@ -317,6 +322,10 @@ h6 {
 }
 
 .terminal-entry--stacked .terminal-tags:before {
+  content: "";
+}
+
+.terminal-entry--publication h2:before {
   content: "";
 }
 
