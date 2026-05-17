@@ -14,7 +14,7 @@ redirect_from:
     <p>Machine Learning Specialist at <a href="https://www.csc.fi/">CSC - IT Center for Science</a>, working within the LUMI AI Factory.</p>
     <p>I build scalable AI pipelines for computer vision, remote sensing, high-performance computing, and environmental data.</p>
   </div>
-  <img class="terminal-avatar" src="/images/anis.png" alt="Anis Ur Rahman">
+  <img class="terminal-avatar" src="/images/anis.jpeg" alt="Anis Ur Rahman">
 </div>
 
 My recent work connects AI, sustainability, and climate resilience. I have worked on the DRYTREE project for drought- and heat-related tree mortality mapping, and on biodiversity data pipelines using the LUMI supercomputer.
