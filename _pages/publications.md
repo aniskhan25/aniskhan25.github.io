@@ -8,21 +8,15 @@ author_profile: false
 Articles
 --------
 
-<section class="terminal-entry terminal-entry--stacked terminal-entry--publication">
-  <h2><a href="https://doi.org/10.1101/2024.02.13.580046">Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting</a></h2>
-  <p><strong>A.U. Rahman</strong>, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. PLOS Computational Biology.</p>
-</section>
+- **Rahman, A.U.**, E. Heinaro, M. Ahishali, S.  Junttila. [Dual-task learning for dead tree detection and segmentation with hybrid self-attention U-Nets in aerial imagery.](https://www.sciencedirect.com/science/article/pii/S1569843225004984) International Journal of Applied Earth Observation and Geoinformation. 144, 104851, November 2025. [IF=8.6]
 
-<section class="terminal-entry terminal-entry--stacked terminal-entry--publication">
-  <h2><a href="https://dx.doi.org/10.3897/arphapreprints.e124640">Prototype biodiversity digital twin: Real-time bird monitoring with citizen science data</a></h2>
-  <p>J.L. Gordillo, P. Lauha, A. Lehtiö, O. Nokelainen, <strong>A.U. Rahman</strong>, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, O. Ovaskainen. ARPHA Preprints.</p>
-</section>
+- Chowdhury, A.I., E. Heinaro, T. Tanhuanpää, **A.U. Rahman**, S. Junttila. [Mapping large European aspens (Populus tremula L.) using national aerial imagery and a U-Net convolutional neural network.](https://www.sciencedirect.com/science/article/pii/S2352938525003088) Remote Sensing Applications: Society and Environment. 40, 101755, November 2025. [IF=4.5]
 
-<section class="terminal-entry terminal-entry--stacked terminal-entry--publication">
-  <h2><a href="https://doi.org/10.1016/j.rser.2023.113858">Mapping smart farming: Addressing agricultural challenges in data-driven era</a></h2>
-  <p>Huo, D., A.W. Malik, S.D. Ravana, <strong>A.U. Rahman</strong>, I. Ahmedy. Renewable and Sustainable Energy Reviews.</p>
-</section>
+- **Rahman, A.U.**, G. Tikhonov, J. Oksanen, T. Rossi, O. Ovaskainen. [Accelerating joint species distribution modelling with Hmsc-HPC by GPU porting.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011914) PLOS Computational Biology. 20(9): e1011914, September 2024. [IF=3.6]
 
+- Ovaskainen, O., P. Lauha, J.L. Gordillo, O. Nokelainen, **A.U. Rahman**, A. Souza, J. Talaskivi, G. Tikhonov, A. Vancraeyenest, A. Lehtiö. [Prototype Biodiversity Digital Twin: Real-time bird monitoring with citizen-science data.](https://riojournal.com/article/125523/) Research Ideas and Outcomes, 10, p.e125523. June 2024.
+
+- Huo, D., A.W. Malik, S.D. Ravana, **A.U. Rahman**, I. Ahmedy. [Mapping smart farming: Addressing agricultural challenges in data-driven era.](https://www.sciencedirect.com/science/article/abs/pii/S1364032123007165) Renewable and Sustainable Energy Reviews. 189 (Part A), 113858. January 2024. [Q1][IF=16.3]
 
 - Ali, M., A.W. Malik, **A.U. Rahman**. [Clustering-based re-routing framework for network traffic congestion avoidance on urban vehicular roads.](https://doi.org/10.1007/s11227-023-05455-1) The Journal of Supercomputing. 79, 21144-21165. June 2023. [Q2][IF=3.3]
 

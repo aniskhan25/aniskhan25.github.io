@@ -25,8 +25,3 @@ My recent work connects AI, sustainability, and climate resilience. I have worke
 - Large-scale ecological and biodiversity data processing
 
 I hold a PhD in Computer Science from [Universite Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/en), where my dissertation focused on computational modelling of visual attention and GPU-based real-time implementations.
-
-<!-- 
-|![](http://steidani.github.io/images/ifs_sim.gif)|
-|:--:| 
-| *Numerical simulation of an extreme weather event (persistent atmospheric blocking in autumn 2016) with the global weather model IFS from ECMWF (as part of my PhD project).* | -->
