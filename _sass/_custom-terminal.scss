@@ -341,6 +341,21 @@ h6 {
   content: "";
 }
 
+.terminal-entry--publication > p {
+  display: block !important;
+  max-width: none !important;
+  margin: 0;
+  padding-left: 1.5em;
+  position: relative;
+
+  &:before {
+    content: "- ";
+    position: absolute;
+    left: 0;
+    color: $terminal-text;
+  }
+}
+
 .sidebar,
 .page__meta,
 .page__share,

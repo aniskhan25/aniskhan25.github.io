@@ -1,0 +1,9 @@
+{% for group in site.data.publications %}
+<h2>{{ group.section }}</h2>
+
+{% for item in group.items %}
+<section class="terminal-entry terminal-entry--publication">
+{{ item | markdownify }}
+</section>
+{% endfor %}
+{% endfor %}
