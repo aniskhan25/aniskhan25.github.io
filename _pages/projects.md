@@ -25,7 +25,7 @@ Environmental AI & Remote Sensing
   <p class="terminal-meta">distributed simulation / sustainable farming</p>
   <h2>Fog-backed simulation for smart farming</h2>
   <p>Designed simulation workflows for sensor deployment, mobility, UAV relays, energy models, and fog-backed computation in farming environments.</p>
-  <p class="terminal-tags">iot | fog computing | simulation | <a href="/images/20_iotj_b.png">preview</a></p>
+  <p class="terminal-tags">iot | fog computing | simulation | <a href="/images/20_iotj_a.png">preview</a></p>
 </section>
 
 HPC, GPU & Scientific ML
@@ -56,31 +56,31 @@ IoT, Fog & Smart Systems
 -----------------------
 
 <section class="terminal-entry terminal-entry--stacked">
-  <p class="terminal-meta">fog federation / resource management</p>
-  <h2>xFogSim and fog resource management</h2>
-  <p>Distributed resource-management frameworks for IoT services in fog federations, balancing latency, packet error rate, availability, cost, and performance.</p>
-  <p class="terminal-tags">edge computing | optimization | iot services | <a href="/images/20_iotj_a.png">preview</a></p>
+  <p class="terminal-meta">iot / distributed heterogeneous simulation</p>
+  <h2>Distributed heterogeneous simulation using IoT</h2>
+  <p>Simulation frameworks for connecting heterogeneous distributed systems and IoT environments for scalable modelling and evaluation.</p>
+  <p class="terminal-tags">iot | distributed simulation | smart systems | <a href="/images/19_iotj.png">preview</a></p>
 </section>
 
 <section class="terminal-entry terminal-entry--stacked">
   <p class="terminal-meta">smart cities / vehicle-assisted migration</p>
   <h2>Sustainable data migration for smart cities</h2>
   <p>Vehicle-assisted migration methods using learned carrier selection to reduce backend network use and improve data-transfer efficiency in smart-city settings.</p>
-  <p class="terminal-tags">smart cities | neural networks | sustainable computing | <a href="/images/19_iotj.png">preview</a></p>
+  <p class="terminal-tags">smart cities | neural networks | sustainable computing | <a href="/images/20_iotj_c.png">preview</a></p>
 </section>
 
 <section class="terminal-entry terminal-entry--stacked">
   <p class="terminal-meta">vehicular fog / task offloading</p>
   <h2>Learning-based vehicular fog offloading</h2>
   <p>Task-offloading and resource-sharing methods for vehicular fog environments, including reinforcement learning and opportunistic computing strategies.</p>
-  <p class="terminal-tags">vehicular fog | task offloading | reinforcement learning | <a href="/images/22_sp.png">preview</a></p>
+  <p class="terminal-tags">vehicular fog | task offloading | reinforcement learning | <a href="/images/22_sp_a.png">preview</a></p>
 </section>
 
 <section class="terminal-entry terminal-entry--stacked">
-  <p class="terminal-meta">robotics / optimization</p>
-  <h2>Autonomous robot task offloading</h2>
-  <p>Multi-armed bandit optimization for selecting task-offloading actions in autonomous mobile robot systems.</p>
-  <p class="terminal-tags">robotics | optimization | edge computing | <a href="/images/23_sp_a.png">preview</a></p>
+  <p class="terminal-meta">urban vehicular networks / congestion avoidance</p>
+  <h2>Clustering-based re-routing for urban traffic</h2>
+  <p>Network traffic congestion avoidance methods for urban vehicular roads using clustering-based re-routing strategies.</p>
+  <p class="terminal-tags">vehicular networks | congestion avoidance | routing | <a href="/images/23_sp_a.png">preview</a></p>
 </section>
 
 Computer Vision & Visual Attention
@@ -114,7 +114,7 @@ Datasets & Human-Centered Systems
   <p class="terminal-meta">dataset / eye tracking / crowd analysis</p>
   <h2>CrowdFix eye-tracking dataset</h2>
   <p>A crowd-video eye-tracking dataset for studying human attention in sparse, dense free-flowing, and dense congested crowd scenes.</p>
-  <p class="terminal-tags">dataset | human attention | crowd video | <a href="/images/19_acc_c.png">preview</a></p>
+  <p class="terminal-tags">dataset | human attention | crowd video | <a href="/images/19_acc_b.png">preview</a></p>
 </section>
 
 <section class="terminal-entry terminal-entry--stacked">
