@@ -1,0 +1,28 @@
+- meta: "jan 2026 - present / finland"
+  title: "Machine Learning Specialist / CSC - IT Center for Science"
+  description: "Developing and deploying machine learning solutions within the LUMI AI Factory for research and private-sector applications."
+  tags: ["machine learning", "lumi ai factory", "hpc", "applied ai"]
+- meta: "nov 2025 - jan 2026 / finland"
+  title: "University Researcher / University of Helsinki"
+  description: "Worked on transfer learning methods for DRYTREE to improve tree mortality mapping across regions and datasets using remote sensing data."
+  tags: ["transfer learning", "remote sensing", "drytree"]
+- meta: "jun 2024 - aug 2025 / finland"
+  title: "Project Researcher / University of Eastern Finland"
+  description: "Developed pattern-recognition algorithms and remote sensing workflows for mapping drought- and heat-related tree mortality across Europe and the US."
+  tags: ["computer vision", "cnns", "environmental ai"]
+- meta: "jul 2022 - may 2024 / jyvaskyla, finland"
+  title: "Postdoctoral Researcher / University of Jyvaskyla"
+  description: "Built large-scale biodiversity data processing pipelines with CSC using the LUMI supercomputer, connected to Biodiversity Digital Twin and LIFEPLAN work."
+  tags: ["biodiversity data", "lumi", "scientific pipelines"]
+- meta: "aug 2013 - jan 2022 / islamabad, pakistan"
+  title: "Assistant Professor and Associate Professor / NUST SEECS"
+  description: "Taught undergraduate and postgraduate courses, supervised theses and research projects, led funded research, and contributed to curriculum and accreditation work."
+  tags: ["teaching", "supervision", "research leadership"]
+- meta: "mar 2019 - mar 2020 / kuala lumpur, malaysia"
+  title: "Research Fellow / University of Malaya"
+  description: "Worked on IoT, simulation and modelling, smart farming, fog federation, and intelligent systems research."
+  tags: ["iot", "simulation", "fog computing", "smart systems"]
+- meta: "sep 2009 - apr 2013 / grenoble, france"
+  title: "PhD Student / GIPSA-lab"
+  description: "Studied computational modelling of visual attention, eye-tracking-based evaluation, face-driven attention, and GPU implementations for real-time visual saliency."
+  tags: ["visual attention", "eye tracking", "gpu", "computer vision"]

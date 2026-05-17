@@ -1,0 +1,56 @@
+- meta: "seminar / predcom / 2024"
+  title: "Basic Hmsc-HPC usage"
+  description: "Introduction and usage material for Hmsc-HPC workflows."
+  links:
+    - label: "material"
+      url: "https://github.com/aniskhan25/hmsc-hpc/blob/main/examples/basic_example/example.Rmd"
+  tags: ["hpc", "ecological modelling"]
+- meta: "seminar / predcom / 2023"
+  title: "Bridging ecological realities: deep learning's promise and challenges"
+  description: "Talk on deep learning methods and constraints in ecological modelling and environmental data analysis."
+  links:
+    - label: "pdf"
+      url: "/files/231219_predcom.pdf"
+  tags: ["deep learning", "ecology"]
+- meta: "seminar / lifeplan / 2023"
+  title: "Unlocking GPU potential: HMSC and LUMI-G for ecology"
+  description: "Seminar on GPU acceleration and LUMI-G workflows for ecological modelling."
+  links:
+    - label: "pdf"
+      url: "/files/230608_lifeplan.pdf"
+  tags: ["gpu", "lumi", "hmsc"]
+- meta: "conference / infocom workshops / 2023"
+  title: "Task offloading using multi-armed bandit optimization in autonomous mobile robots"
+  description: "Conference presentation on task offloading and optimization for autonomous mobile robots."
+  links:
+    - label: "pdf"
+      url: "/files/230517_infocom.pdf"
+  tags: ["optimization", "robotics"]
+- meta: "conference / dicta / 2017"
+  title: "A framework to combine multi-object tracking and segmentation"
+  description: "Conference presentation on joint tracking and segmentation for video understanding."
+  links:
+    - label: "pdf"
+      url: "/files/171201_dicta.pdf"
+  tags: ["tracking", "segmentation"]
+- meta: "conference / icip / 2016"
+  title: "A framework to combine multi-object tracking and segmentation"
+  description: "Presentation on video object tracking and segmentation methods."
+  links:
+    - label: "pdf"
+      url: "/files/160927_icip.pdf"
+  tags: ["computer vision", "video"]
+- meta: "workshop / wiamis / 2012"
+  title: "Face perception: influence of location and number in videos"
+  description: "Workshop presentation on face-driven visual attention in video scenes."
+  links:
+    - label: "pdf"
+      url: "/files/120523_wiamis.pdf"
+  tags: ["visual attention", "faces"]
+- meta: "defense / universite grenoble alpes"
+  title: "Face perception in videos: contributions to a visual saliency model and its implementation on GPUs"
+  description: "PhD defense on visual saliency modelling, eye-tracking evaluation, face perception, and GPU implementations."
+  links:
+    - label: "thesis"
+      url: "/files/rahman_phd_thesis.pdf"
+  tags: ["saliency", "gpu"]

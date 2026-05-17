@@ -1,0 +1,16 @@
+- meta: "associate professor / seecs-nust"
+  title: "Graduate courses"
+  description: "Big Data Analytics, Information Retrieval, Advanced Algorithm Analysis, Data Mining, and Research Methodology."
+  tags: ["big data", "algorithms", "information retrieval", "data mining", "research methods"]
+- meta: "associate professor / seecs-nust"
+  title: "Undergraduate courses"
+  description: "Design and Analysis of Algorithms, Software Design and Architecture, Digital Image Processing, Object-Oriented Programming, Fundamentals of Computer Programming, and Data Structures and Algorithms."
+  tags: ["algorithms", "software architecture", "image processing", "programming", "data structures"]
+- meta: "research fellow / university of malaya"
+  title: "Big Data Management"
+  description: "Taught WQD7007 Big Data Management, covering data management concepts and practices for large-scale analytics."
+  tags: ["big data", "analytics", "data management"]
+- meta: "teaching assistant / grenoble inp"
+  title: "GPU programming and microprocessors"
+  description: "Supervised practical sessions for image processing on GPUs and laboratory sessions on NEC microcontrollers."
+  tags: ["gpu programming", "image processing", "microprocessors", "labs"]

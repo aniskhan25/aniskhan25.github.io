@@ -1,0 +1,8 @@
+{% for item in include.items %}
+<section class="terminal-entry{% if include.stacked %} terminal-entry--stacked{% endif %}">
+<p class="terminal-meta">{{ item.meta }}</p>
+<h2>{{ item.title }}</h2>
+<p>{{ item.description }}</p>
+<p class="terminal-tags">{% if item.links %}{% for link in item.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last and item.tags == nil %} | {% endunless %}{% endfor %}{% endif %}{% for tag in item.tags %}{{ tag }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
+</section>
+{% endfor %}
