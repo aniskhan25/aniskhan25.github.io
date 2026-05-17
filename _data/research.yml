@@ -1,0 +1,183 @@
+- group: "Environmental AI & Sustainable Systems"
+  items:
+    - title: "Dead-tree detection and segmentation"
+      meta: "remote sensing / tree mortality / aerial imagery"
+      description: "Dual-task learning for detecting and segmenting dead trees in aerial imagery with hybrid self-attention U-Nets."
+      tags: ["remote sensing", "segmentation", "environmental ai"]
+      preview: "/images/25_jag.png"
+    - title: "Mapping smart farming systems"
+      meta: "smart farming / review / data-driven agriculture"
+      description: "A review of data-driven smart farming architectures and the agricultural challenges they address across sensing, connectivity, and decision support."
+      tags: ["smart farming", "sustainable agriculture", "review"]
+      preview: "/images/23_rer.png"
+    - title: "Fog computing for sustainable smart farming"
+      meta: "fog computing / sustainable farming / simulation"
+      description: "Distributed simulation methods for smart farming that combine IoT connectivity, fog computing, and end-to-end data transmission models."
+      tags: ["iot", "fog computing", "simulation"]
+      preview: "/images/20_iotj_a.png"
+    - title: "Wind power plant modelling and forecasting"
+      meta: "wind power / forecasting / agent-based modelling"
+      description: "Agent-based modelling, simulation, and forecasting workflows for wind power plants and renewable-energy planning."
+      tags: ["forecasting", "agent-based modelling", "renewable energy"]
+      preview: "/images/20_jcp.png"
+
+- group: "HPC, GPU & Computational Vision"
+  items:
+    - title: "Hmsc-HPC GPU acceleration"
+      meta: "gpu / ecological modelling / species distribution"
+      description: "GPU porting and optimization for joint species distribution modelling, enabling faster ecological modelling workflows on modern accelerators."
+      tags: ["gpu", "ecological modelling", "hpc"]
+      preview: "/images/24_plos.png"
+    - title: "GPU motion estimation for visual saliency"
+      meta: "multi-gpu / visual saliency / motion estimation"
+      description: "GPU implementation of motion estimation components for real-time visual saliency computation."
+      tags: ["gpu", "motion estimation", "visual saliency"]
+      preview: "/images/10_dasip.png"
+    - title: "Parallel spatiotemporal visual saliency"
+      meta: "parallel computing / visual saliency / video"
+      description: "Parallel implementation of spatiotemporal visual saliency models for computationally intensive video analysis."
+      tags: ["parallel computing", "saliency", "video analysis"]
+      preview: "/images/12_jrtip.png"
+    - title: "GPU-accelerated neural data processing"
+      meta: "gpu / neural data / empirical mode decomposition"
+      description: "GPU acceleration for multivariate empirical mode decomposition at massive neural-data scale."
+      tags: ["gpu", "neural data", "signal processing"]
+      preview: "/images/17_acc.png"
+
+- group: "IoT, Fog, Vehicular & Smart-City Systems"
+  items:
+    - title: "Symbiotic robotics task offloading"
+      meta: "robotics / task offloading / smart industry"
+      description: "Symbiotic robotics networks for efficient task offloading in smart industrial environments."
+      tags: ["robotics", "task offloading", "smart industry"]
+      preview: "/images/21_tii.png"
+    - title: "Distributed heterogeneous simulation using IoT"
+      meta: "iot / distributed heterogeneous simulation"
+      description: "Simulation frameworks for connecting heterogeneous distributed systems and IoT environments for scalable modelling and evaluation."
+      tags: ["iot", "distributed simulation", "smart systems"]
+      preview: "/images/19_iotj.png"
+    - title: "Fog-federated load sharing in internet of vehicles"
+      meta: "vehicular fog / load sharing / sustainability"
+      description: "Sustainable micro-level fog-federated load sharing for internet-of-vehicles environments."
+      tags: ["vehicular fog", "load sharing", "sustainability"]
+      preview: "/images/20_iotj_b.png"
+    - title: "Sustainable vehicle-assisted data migration"
+      meta: "smart cities / big data migration / edge computing"
+      description: "Vehicle-assisted edge computing for efficient big-data migration in smart-city systems."
+      tags: ["smart cities", "edge computing", "data migration"]
+      preview: "/images/20_iotj_c.png"
+    - title: "Federated deep reinforcement learning for vehicular fog"
+      meta: "vehicular fog / reinforcement learning / task offloading"
+      description: "Federated multi-agent deep reinforcement learning for task offloading in vehicular fog computing."
+      tags: ["vehicular fog", "reinforcement learning", "task offloading"]
+      preview: "/images/22_sp_a.png"
+    - title: "SUDV malicious fog-node management"
+      meta: "software updates / connected vehicles / security"
+      description: "Malicious fog-node management for software update dissemination in connected vehicle environments."
+      tags: ["connected vehicles", "security", "software updates"]
+      preview: "/images/22_sp.png"
+    - title: "Clustering-based traffic re-routing"
+      meta: "urban vehicular roads / congestion avoidance"
+      description: "Network traffic congestion avoidance on urban vehicular roads using clustering-based re-routing strategies."
+      tags: ["vehicular networks", "congestion avoidance", "routing"]
+      preview: "/images/23_sp_a.png"
+    - title: "Congestion avoidance in vehicular networks"
+      meta: "vehicular networks / congestion survey"
+      description: "A contemporary survey of congestion avoidance methods in vehicular networks."
+      tags: ["vehicular networks", "congestion avoidance", "survey"]
+      preview: "/images/19_acc_c.png"
+    - title: "Context-aware opportunistic V2V computing"
+      meta: "vehicular networks / opportunistic computing"
+      description: "Context-aware opportunistic computing methods for vehicle-to-vehicle networks."
+      tags: ["v2v networks", "opportunistic computing", "vehicular systems"]
+      preview: "/images/20_vc_a.png"
+    - title: "On-demand resource provisioning with flying fog"
+      meta: "vehicular networks / flying fog / resource provisioning"
+      description: "On-demand resource provisioning for vehicular networks using flying fog infrastructure."
+      tags: ["flying fog", "resource provisioning", "vehicular networks"]
+      preview: "/images/20_vc_b.png"
+    - title: "Sustainable multi-hop vehicular data transfer"
+      meta: "vehicular data transfer / multi-hop forwarding"
+      description: "On-demand multi-hop forwarding for sustainable vehicular data-transfer networks."
+      tags: ["multi-hop forwarding", "vehicular networks", "sustainable data transfer"]
+      preview: "/images/21_ijdsn.png"
+    - title: "Federated fog for over-the-air vehicle updates"
+      meta: "software-defined vehicles / fog environments"
+      description: "Over-the-air software-defined vehicle updates using federated fog environments."
+      tags: ["software-defined vehicles", "federated fog", "ota updates"]
+    - title: "Time-bound opportunistic forwarding"
+      meta: "industrial environments / disconnected networks"
+      description: "Time-bound single-path opportunistic forwarding for disconnected industrial environments."
+      tags: ["opportunistic forwarding", "disconnected networks", "industrial systems"]
+    - title: "Scalable cloud and virtual infrastructure simulation"
+      meta: "cloud simulation / orchestration / placement"
+      description: "Cloud data-center simulation, process placement, and virtual infrastructure orchestration for cloud service deployment."
+      tags: ["cloud simulation", "orchestration", "resource placement"]
+      previews: ["/images/19_sp.png", "/images/19_sup.png", "/images/19_tcj.png"]
+    - title: "Emergency message dissemination in vehicular networks"
+      meta: "vehicular messaging / emergency dissemination"
+      description: "Position-based and time-barrier-based emergency message dissemination for internet-of-vehicles and vehicular ad-hoc networks."
+      tags: ["internet of vehicles", "emergency messaging", "vehicular ad-hoc networks"]
+      previews: ["/images/19_ijdsn_a.png", "/images/19_acc_a.png"]
+    - title: "Vehicular sensing and intelligent transport systems"
+      meta: "smart cities / intelligent transport / cooperative sensing"
+      description: "Vehicular-network-based transport management and cooperative sensing methods for smart cities and industrial IoT target tracking."
+      tags: ["smart cities", "cooperative sensing", "intelligent transport"]
+      previews: ["/images/19_ijdsn_b.png", "/images/19_ijdsn_c.png"]
+    - title: "Blockchain and adaptive learning for vehicular fog"
+      meta: "vehicular fog / reputation / resource sharing"
+      description: "Blockchain-based reputation management and adaptive-learning-based resource sharing for vehicular fog, IIoT, and resource-constrained environments."
+      tags: ["blockchain", "resource sharing", "vehicular fog"]
+      previews: ["/images/20_acc_a.png", "/images/21_iotj.png"]
+
+- group: "Health, Security & Data Systems"
+  items:
+    - title: "MedCloud disease surveillance"
+      meta: "health informatics / cloud systems"
+      description: "Cloud-based disease surveillance and information management for health monitoring workflows."
+      tags: ["health informatics", "cloud systems", "surveillance"]
+      preview: "/images/20_acc_b.png"
+    - title: "Indexing for wireless sensor network dissemination"
+      meta: "wireless sensor networks / data dissemination"
+      description: "Efficient indexing frameworks for data dissemination in wireless sensor networks."
+      tags: ["wireless sensor networks", "indexing", "data dissemination"]
+
+- group: "Computer Vision & Visual Attention"
+  items:
+    - title: "Face features and center bias in saliency"
+      meta: "visual saliency / face feature maps / center bias"
+      description: "Visual saliency modelling that improves predictions by adding face-feature maps and center-bias mechanisms."
+      tags: ["visual saliency", "face detection", "attention modelling"]
+      preview: "/images/13_cc.png"
+    - title: "Face perception in videos"
+      meta: "face perception / eye movements / video"
+      description: "Studies of how face location, number, and size influence gaze behaviour in video."
+      tags: ["visual attention", "face perception", "eye tracking"]
+      preview: "/images/14_jemr.png"
+    - title: "Multi-object video segmentation and tracking"
+      meta: "tracking / segmentation / video understanding"
+      description: "Computer-vision methods combining multi-object video segmentation and tracking for object-level video understanding."
+      tags: ["tracking", "segmentation", "computer vision"]
+      preview: "/images/17_dicta.png"
+    - title: "Unsupervised video object segmentation"
+      meta: "video segmentation / conditional random fields"
+      description: "Unsupervised video object segmentation using conditional random fields."
+      tags: ["video segmentation", "conditional random fields", "computer vision"]
+
+- group: "Datasets & Human-Centered Systems"
+  items:
+    - title: "CrowdFix eye-tracking dataset"
+      meta: "dataset / eye tracking / crowd analysis"
+      description: "An eye-tracking dataset of real-life crowd videos for studying attention in sparse, dense free-flowing, and dense congested scenes."
+      tags: ["dataset", "human attention", "crowd video"]
+      preview: "/images/19_acc_b.png"
+    - title: "Rethinking mini-maps in urban game environments"
+      meta: "hci / spatial learning / navigation"
+      description: "A study of mini-map navigation aids and their impact on spatial learning in urban game environments."
+      tags: ["hci", "spatial cognition", "virtual environments"]
+      preview: "/images/17_ijhcs.png"
+    - title: "Affect-based image classification"
+      meta: "affective computing / food images"
+      description: "Image classification work connecting visual features with affective emotion categories in food imagery."
+      tags: ["affective computing", "image classification", "visual features"]
+      preview: "/images/20_jfcm.png"
