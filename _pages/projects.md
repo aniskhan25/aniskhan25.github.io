@@ -73,7 +73,7 @@ IoT, Fog, Vehicular & Smart-City Systems
   <p class="terminal-meta">robotics / task offloading / smart industry</p>
   <h2>Symbiotic robotics task offloading</h2>
   <p>Symbiotic robotics networks for efficient task offloading in smart industrial environments.</p>
-  <p class="terminal-tags">robotics | task offloading | smart industry</p>
+  <p class="terminal-tags">robotics | task offloading | smart industry | <a href="/images/21_tii.png">preview</a></p>
 </section>
 
 <section class="terminal-entry terminal-entry--stacked">
