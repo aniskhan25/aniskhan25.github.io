@@ -200,6 +200,18 @@ h6 {
     list-style-type: none;
   }
 
+  ul > li {
+    position: relative;
+    padding-left: 1.5em;
+
+    &:before {
+      content: "- ";
+      position: absolute;
+      left: 0;
+      color: $terminal-text;
+    }
+  }
+
   img {
     border: 1px solid $terminal-rule;
     border-radius: 0;
